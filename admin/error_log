@@ -1,0 +1,26 @@
+[25-Jul-2017 14:54:15 Asia/Kolkata] PHP Fatal error:  Call to a member function get_logintime() on null in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 17
+[26-Jul-2017 18:30:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/customer/view-members.php on line 150
+[27-Jul-2017 11:05:34 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 287
+[27-Jul-2017 16:55:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_paidmember() in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/dashboard.php on line 3
+[27-Jul-2017 16:55:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_paidmember() in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/dashboard.php on line 3
+[27-Jul-2017 16:55:23 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_paidmember() in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/dashboard.php on line 3
+[27-Jul-2017 16:56:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/techlabz/public_html/solmatenew/solmate/admin/application/models/Dashboard_model.php on line 12
+[27-Jul-2017 16:56:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_paidmember() in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/dashboard.php on line 3
+[27-Jul-2017 18:00:45 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/techlabz/public_html/solmatenew/solmate/admin/application/helpers/rgv_helper.php on line 64
+[31-Jul-2017 09:52:30 UTC] PHP Fatal error:  Cannot redeclare Customer::approve_member() in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 135
+[31-Jul-2017 09:52:59 UTC] PHP Fatal error:  Cannot redeclare Customer::approve_member() in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 135
+[31-Jul-2017 15:27:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Customer_model::disablehighlight_members() in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 146
+[02-Aug-2017 16:36:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 58
+[02-Aug-2017 16:37:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 58
+[02-Aug-2017 16:37:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 58
+[02-Aug-2017 16:37:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 58
+[02-Aug-2017 12:13:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 694
+[02-Aug-2017 12:13:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 694
+[03-Aug-2017 04:04:41 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 704
+[03-Aug-2017 04:05:02 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 704
+[03-Aug-2017 04:05:08 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 704
+[04-Aug-2017 11:49:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 123
+[04-Aug-2017 11:49:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 123
+[04-Aug-2017 11:51:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/techlabz/public_html/solmatenew/solmate/admin/application/views/Index_management/view_other_source.php on line 71
+[08-Aug-2017 08:48:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Customer.php on line 293
+[08-Aug-2017 10:43:25 UTC] PHP Parse error:  syntax error, unexpected 'logo' (T_STRING) in /home/techlabz/public_html/solmatenew/solmate/admin/application/controllers/Settings_ctrl.php on line 731
